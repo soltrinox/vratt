@@ -1,0 +1,1 @@
+../../../ApiAI/ApiAI/Private/AIQueryRequest+Private.h

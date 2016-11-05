@@ -1,0 +1,1 @@
+../../../ApiAI/ApiAI/UserEntities/Classes/AIUserEntity.h

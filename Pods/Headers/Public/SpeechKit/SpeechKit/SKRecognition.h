@@ -1,0 +1,1 @@
+../../../../SpeechKit/SpeechKit.framework/Headers/SKRecognition.h

@@ -1,0 +1,39 @@
+PODS:
+  - ApiAI (0.5.5):
+    - ApiAI/AudioFileConverter (= 0.5.5)
+    - ApiAI/Core (= 0.5.5)
+    - ApiAI/ResponseMapping (= 0.5.5)
+    - ApiAI/UIKit (= 0.5.5)
+    - ApiAI/UserEntities (= 0.5.5)
+    - ApiAI/VoiceFileRequest (= 0.5.5)
+    - ApiAI/VoiceRequest (= 0.5.5)
+  - ApiAI/AudioFileConverter (0.5.5):
+    - ApiAI/Core
+  - ApiAI/Core (0.5.5)
+  - ApiAI/ResponseMapping (0.5.5):
+    - ApiAI/Core
+  - ApiAI/UIKit (0.5.5):
+    - ApiAI/Core
+    - ApiAI/VoiceRequest
+  - ApiAI/UserEntities (0.5.5):
+    - ApiAI/Core
+  - ApiAI/VoiceFileRequest (0.5.5):
+    - ApiAI/Core
+  - ApiAI/VoiceRequest (0.5.5):
+    - ApiAI/Core
+  - GVRSDK (1.0.1)
+  - SpeechKit (2.2.2)
+
+DEPENDENCIES:
+  - ApiAI
+  - GVRSDK
+  - SpeechKit
+
+SPEC CHECKSUMS:
+  ApiAI: f812efe6bff8b6d980b15ffd40c3e74ae8f467c4
+  GVRSDK: 2cbac1df15500d5dfdba26e932eb2d35aa67b242
+  SpeechKit: f9b9498a7e8696ec284c1fb2722750736bddbc14
+
+PODFILE CHECKSUM: c676f55cf456c1f1117b07ee945adfa184fc1e0a
+
+COCOAPODS: 1.0.0
